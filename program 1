@@ -1,0 +1,7 @@
+
+x <- 7
+y <- 5
+sum <- x + y
+print(sum)  
+
+p
